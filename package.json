@@ -1,0 +1,60 @@
+{
+  "name": "typescript-web-development-extension-pack",
+  "version": "1.0.0",
+  "publisher": "Noctarya",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "displayName": "TypeScript Web Development Extension Pack",
+  "description": "Everything you need for Web development with TypeScript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Noctarya/vscode-typescript-web-development-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Noctarya/vscode-typescript-web-development-extension-pack/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+      "typescript", 
+      "javascript", 
+      "ecmascript", 
+      "web", 
+      "development", 
+      "react", 
+      "angular", 
+      "vue",
+      "node",
+      "nestjs",
+      "express", 
+      "js", 
+      "jsx", 
+      "ts", 
+      "tsx", 
+      "latex", 
+      "tex", 
+      "formatter",
+      "prettier",
+      "eslint",
+      "tslint",
+      "jest",
+      "test",
+      "statusbar",
+      "terminal",
+      "chrome",
+      "git"
+  ],
+  "extensionPack": [ 
+    "msjsdiag.debugger-for-chrome",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "orta.vscode-jest",
+    "firsttris.vscode-jest-runner",
+    "james-yu.latex-workshop",
+    "esbenp.prettier-vscode",
+    "noctarya.terminal-statusbar"
+  ]
+}
