@@ -8,6 +8,9 @@ Contains the most important extensions for web development with Typescript.
 ## ESLint
 [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
+## Extended Terminal Integration
+[https://marketplace.visualstudio.com/items?itemName=Noctarya.terminals](https://marketplace.visualstudio.com/items?itemName=Noctarya.terminals)
+
 ## Git History
 [https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
@@ -25,6 +28,3 @@ Contains the most important extensions for web development with Typescript.
 
 ## Prettier - Code formatter
 [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Terminal StatusBar
-[https://marketplace.visualstudio.com/items?itemName=Noctarya.terminal-statusbar](https://marketplace.visualstudio.com/items?itemName=Noctarya.terminal-statusbar)
