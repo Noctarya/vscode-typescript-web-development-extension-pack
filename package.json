@@ -1,6 +1,6 @@
 {
   "name": "typescript-web-development-extension-pack",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "publisher": "Noctarya",
   "engines": {
     "vscode": "^1.41.0"
@@ -33,7 +33,7 @@
       "jsx", 
       "ts", 
       "tsx", 
-      "latex", 
+      "markdown", 
       "tex", 
       "formatter",
       "prettier",
@@ -53,7 +53,7 @@
     "eamodio.gitlens",
     "orta.vscode-jest",
     "firsttris.vscode-jest-runner",
-    "james-yu.latex-workshop",
+    "yzhang.markdown-all-in-one",
     "esbenp.prettier-vscode",
     "noctarya.terminals"
   ]

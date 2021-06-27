@@ -23,8 +23,8 @@ Contains the most important extensions for web development with Typescript.
 ## Jest Runner
 [https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
 
-## LaTex Workshop
-[https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+## Markdown All in One
+[https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 ## Prettier - Code formatter
 [https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
