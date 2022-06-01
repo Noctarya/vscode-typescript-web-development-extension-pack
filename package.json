@@ -1,7 +1,8 @@
 {
   "name": "typescript-web-development-extension-pack",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "publisher": "Noctarya",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.41.0"
   },
@@ -14,47 +15,45 @@
   "bugs": {
     "url": "https://github.com/Noctarya/vscode-typescript-web-development-extension-pack/issues"
   },
+  "icon": "img/logo.png",
   "categories": [
     "Extension Packs"
   ],
   "keywords": [
-      "typescript", 
-      "javascript", 
-      "ecmascript", 
-      "web", 
-      "development", 
-      "react", 
-      "angular", 
-      "vue",
-      "node",
-      "nestjs",
-      "express", 
-      "js", 
-      "jsx", 
-      "ts", 
-      "tsx", 
-      "markdown", 
-      "tex", 
-      "formatter",
-      "prettier",
-      "eslint",
-      "tslint",
-      "jest",
-      "test",
-      "statusbar",
-      "terminal",
-      "chrome",
-      "git"
+    "typescript",
+    "javascript",
+    "ecmascript",
+    "web",
+    "development",
+    "react",
+    "angular",
+    "vue",
+    "node",
+    "nestjs",
+    "express",
+    "js",
+    "jsx",
+    "ts",
+    "tsx",
+    "markdown",
+    "formatter",
+    "prettier",
+    "eslint",
+    "tslint",
+    "jest",
+    "test",
+    "statusbar",
+    "terminal",
+    "git"
   ],
-  "extensionPack": [ 
-    "msjsdiag.debugger-for-chrome",
+  "extensionPack": [
     "dbaeumer.vscode-eslint",
-    "donjayamanne.githistory",
+    "noctarya.terminals",
+    "mhutchie.git-graph",
     "eamodio.gitlens",
     "orta.vscode-jest",
     "firsttris.vscode-jest-runner",
     "yzhang.markdown-all-in-one",
-    "esbenp.prettier-vscode",
-    "noctarya.terminals"
+    "esbenp.prettier-vscode"
   ]
 }

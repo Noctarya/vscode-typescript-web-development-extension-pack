@@ -2,17 +2,14 @@
 
 Contains the most important extensions for web development with Typescript.
 
-## Debugger for Chrome
-[https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-
 ## ESLint
 [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ## Extended Terminal Integration
 [https://marketplace.visualstudio.com/items?itemName=Noctarya.terminals](https://marketplace.visualstudio.com/items?itemName=Noctarya.terminals)
 
-## Git History
-[https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+## Git Graph
+[https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ## GitLens
 [https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
